@@ -1,0 +1,55 @@
+file,true,predicted,confidence,correct
+my_images/Abyssinian/images (1).jpg,Abyssinian,Abyssinian,0.87,True
+my_images/Abyssinian/images (2).jpg,Abyssinian,Abyssinian,0.59,True
+my_images/Abyssinian/images (3).jpg,Abyssinian,Abyssinian,0.544,True
+my_images/Abyssinian/images (4).jpg,Abyssinian,Abyssinian,0.924,True
+my_images/Abyssinian/images (5).jpg,Abyssinian,Abyssinian,0.919,True
+my_images/Abyssinian/images (6).jpg,Abyssinian,Abyssinian,0.913,True
+my_images/Abyssinian/images (7).jpg,Abyssinian,Abyssinian,0.867,True
+my_images/Abyssinian/images.jpg,Abyssinian,Abyssinian,0.865,True
+my_images/American Bulldog/images (1).jpg,American Bulldog,American Pit Bull Terrier,0.625,False
+my_images/American Bulldog/images (10).jpg,American Bulldog,American Pit Bull Terrier,0.9,False
+my_images/American Bulldog/images (11).jpg,American Bulldog,American Bulldog,0.372,True
+my_images/American Bulldog/images (2).jpg,American Bulldog,American Bulldog,0.462,True
+my_images/American Bulldog/images (3).jpg,American Bulldog,American Bulldog,0.795,True
+my_images/American Bulldog/images (4).jpg,American Bulldog,American Pit Bull Terrier,0.349,False
+my_images/American Bulldog/images (5).jpg,American Bulldog,American Bulldog,0.615,True
+my_images/American Bulldog/images (6).jpg,American Bulldog,American Bulldog,0.794,True
+my_images/American Bulldog/images (7).jpg,American Bulldog,American Pit Bull Terrier,0.711,False
+my_images/American Bulldog/images (8).jpg,American Bulldog,American Pit Bull Terrier,0.433,False
+my_images/American Bulldog/images (9).jpg,American Bulldog,American Bulldog,0.562,True
+my_images/American Bulldog/images.jpg,American Bulldog,American Pit Bull Terrier,0.497,False
+my_images/American Pit Bull Terrier/images (1).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.726,True
+my_images/American Pit Bull Terrier/images (12).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.783,True
+my_images/American Pit Bull Terrier/images (2).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.862,True
+my_images/American Pit Bull Terrier/images (3).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.335,True
+my_images/American Pit Bull Terrier/images (4).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.881,True
+my_images/American Pit Bull Terrier/images (5).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.87,True
+my_images/American Pit Bull Terrier/images (6).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.909,True
+my_images/American Pit Bull Terrier/images (7).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.822,True
+my_images/American Pit Bull Terrier/images (8).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.961,True
+my_images/American Pit Bull Terrier/images (9).jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.762,True
+my_images/American Pit Bull Terrier/images.jpg,American Pit Bull Terrier,American Pit Bull Terrier,0.752,True
+my_images/Basset Hound/images (1).jpg,Basset Hound,Basset Hound,0.903,True
+my_images/Basset Hound/images (10).jpg,Basset Hound,Basset Hound,0.876,True
+my_images/Basset Hound/images (11).jpg,Basset Hound,Basset Hound,0.886,True
+my_images/Basset Hound/images (2).jpg,Basset Hound,Basset Hound,0.86,True
+my_images/Basset Hound/images (3).jpg,Basset Hound,Basset Hound,0.903,True
+my_images/Basset Hound/images (4).jpg,Basset Hound,Basset Hound,0.93,True
+my_images/Basset Hound/images (5).jpg,Basset Hound,Basset Hound,0.908,True
+my_images/Basset Hound/images (6).jpg,Basset Hound,Basset Hound,0.788,True
+my_images/Basset Hound/images (7).jpg,Basset Hound,Basset Hound,0.907,True
+my_images/Basset Hound/images (8).jpg,Basset Hound,Basset Hound,0.899,True
+my_images/Basset Hound/images (9).jpg,Basset Hound,Basset Hound,0.794,True
+my_images/Basset Hound/images.jpg,Basset Hound,Basset Hound,0.907,True
+my_images/Beagle/images (1).jpg,Beagle,Beagle,0.837,True
+my_images/Beagle/images (12).jpg,Beagle,Beagle,0.745,True
+my_images/Beagle/images (2).jpg,Beagle,Beagle,0.761,True
+my_images/Beagle/images (3).jpg,Beagle,Beagle,0.826,True
+my_images/Beagle/images (4).jpg,Beagle,Beagle,0.824,True
+my_images/Beagle/images (5).jpg,Beagle,Beagle,0.89,True
+my_images/Beagle/images (6).jpg,Beagle,Beagle,0.734,True
+my_images/Beagle/images (7).jpg,Beagle,Beagle,0.8,True
+my_images/Beagle/images (8).jpg,Beagle,Beagle,0.801,True
+my_images/Beagle/images (9).jpg,Beagle,Beagle,0.858,True
+my_images/Beagle/images.jpg,Beagle,Beagle,0.762,True

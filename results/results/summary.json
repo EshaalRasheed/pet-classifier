@@ -1,0 +1,19 @@
+{
+  "model": "ConvNeXt-Tiny (ImageNet pretrained), fine-tuned",
+  "best_val_accuracy": 0.9692,
+  "test_accuracy": 0.9436,
+  "test_top5_accuracy": 0.997,
+  "test_accuracy_same_breeds_as_own_photos": 0.8755,
+  "own_photos_count": 54,
+  "own_photos_accuracy": 0.8889,
+  "own_photos_accuracy_95ci": [
+    0.778,
+    0.948
+  ],
+  "own_photos_top5_accuracy": 0.9815,
+  "top_confusions": [
+    "American Pit Bull Terrier -> Staffordshire Bull Terrier (27)",
+    "Ragdoll -> Birman (14)",
+    "Egyptian Mau -> Bengal (8)"
+  ]
+}

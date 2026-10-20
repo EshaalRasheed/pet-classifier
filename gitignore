@@ -1,0 +1,5 @@
+data/
+best_model.pth
+.venv/
+.ipynb_checkpoints/
+*.zip
